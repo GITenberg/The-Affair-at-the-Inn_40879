@@ -37,6 +37,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34362
     wikipedia: http://en.wikipedia.org/wiki/Jane_Findlater
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40879#The-Affair-at-the-Inn
 gutenberg_issued: '2012-09-27'
 gutenberg_type: Text
 identifiers:
