@@ -1,0 +1,53 @@
+_repo: The-Affair-at-the-Inn_40879
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40879-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Findlater, Mary
+    birthdate: 1865
+    deathdate: 1963
+    gutenberg_agent_id: '34361'
+    url: http://www.gutenberg.org/2009/agents/34361
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Findlater
+  - agent_name: McAulay, Allan
+    aliases:
+    - Stewart, Charlotte
+    - Macaulay, Allan
+    birthdate: 1863
+    deathdate: 1918
+    gutenberg_agent_id: '34363'
+    url: http://www.gutenberg.org/2009/agents/34363
+  - agent_name: Wiggin, Kate Douglas Smith
+    aliases:
+    - Riggs, Kate Douglas Smith Wiggin
+    - Smith, Kate Douglas
+    - Wiggin, Samuel Bradley, Mrs.
+    - Riggs, George Christopher, Mrs.
+    birthdate: 1856
+    deathdate: 1923
+    gutenberg_agent_id: '266'
+    url: http://www.gutenberg.org/2009/agents/266
+    wikipedia: http://en.wikipedia.org/wiki/Kate_Douglas_Wiggin
+  - agent_name: Findlater, Jane Helen
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '34362'
+    url: http://www.gutenberg.org/2009/agents/34362
+    wikipedia: http://en.wikipedia.org/wiki/Jane_Findlater
+description: ''
+gutenberg_issued: '2012-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40879'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Americans -- England -- Fiction'
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+title: The Affair at the Inn
+url: http://www.gutenberg.org/ebooks/40879
